@@ -1,0 +1,7 @@
+git add --all
+git commit -m "msg"
+git push -u origin master
+
+
+To clone:
+git clone https://github.com/vdcoder/vdcoder.github.io
